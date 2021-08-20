@@ -1,0 +1,24 @@
+Ship + projectile sprites: 
+	Author: Master484 
+	Name: 16*16 Ship Collection 
+	Source: https://opengameart.org/content/1616-ship-collection
+
+Background sprite:
+	Author: hc
+	Name: Galaxy Skybox
+	Source: https://opengameart.org/content/galaxy-skybox
+
+Button sprite:
+	Author: Kenny
+	Name: Spaceshooter pack
+	Source: https://www.kenney.nl/assets?q=2d
+
+Audio:
+	Author: Kenny
+	Name: Sci-Fi Sounds
+	Source: https://www.kenney.nl/assets/sci-fi-sounds
+
+Music:
+	Author: Clacksberg
+	Name: Experimental sequencer music.Wav
+	Source: https://freesound.org/people/Clacksberg/sounds/539536/
