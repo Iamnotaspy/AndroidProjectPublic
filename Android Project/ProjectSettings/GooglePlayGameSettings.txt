@@ -1,0 +1,9 @@
+lastUpgrade=01012
+proj.pluginVersion=0.10.12
+proj.AppId=755054300178
+and.BundleId=com.JacobGallagher.ChaosinSpace
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e755054300178%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.JacobGallagher.ChaosinSpace%3c%2fstring%3e%0d%0a++%3c%21--achievement+Score+over+10--%3e%0d%0a++%3cstring+name%3d%22achievement_score_over_10%22+translatable%3d%22false%22%3eCgkIkpj55fwVEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Score+over+25--%3e%0d%0a++%3cstring+name%3d%22achievement_score_over_25%22+translatable%3d%22false%22%3eCgkIkpj55fwVEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Score+over+50--%3e%0d%0a++%3cstring+name%3d%22achievement_score_over_50%22+translatable%3d%22false%22%3eCgkIkpj55fwVEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Score+over+75--%3e%0d%0a++%3cstring+name%3d%22achievement_score_over_75%22+translatable%3d%22false%22%3eCgkIkpj55fwVEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Score+over+100--%3e%0d%0a++%3cstring+name%3d%22achievement_score_over_100%22+translatable%3d%22false%22%3eCgkIkpj55fwVEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Dodge+master--%3e%0d%0a++%3cstring+name%3d%22achievement_dodge_master%22+translatable%3d%22false%22%3eCgkIkpj55fwVEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
